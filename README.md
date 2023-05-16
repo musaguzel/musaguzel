@@ -1,3 +1,5 @@
+# Hi 👋, I'm Musa
+# Mobile App Developer
 # 💫 About Me:
 🌱 I’m currently learning mobile app development with flutter<br><br>💬 Ask me about anything, anytime!<br><br>📫 How to reach me: musaguzel.7@hotmail.com
 
